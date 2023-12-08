@@ -13,7 +13,7 @@ version 3.6. It can be installed from the command line using:
 
 ``$ pip install cashflows``
 
-Source code can be download from *https://github.com/jdvelasq/cashflows*.
+
 
 **cashflows** can be used interactively at the Python’s command prompt, but a better
 experience is achieved when IPython or Jupyter’s notebook are used, allows the
